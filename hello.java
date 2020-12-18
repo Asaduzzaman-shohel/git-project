@@ -5,9 +5,11 @@ public class Hello {
         gretting("Git");
     }
 
+
     public static void gretting(String name){
         System.out.println("Bye Bye " + name);
     }
+
 
     public static int sqr(int x){
         return x*x;
